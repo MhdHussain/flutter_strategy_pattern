@@ -1,4 +1,4 @@
-# flutterstrategypattern
+#Flutter Strategy Pattern
 
 The counter app designed using the strategy pattern
 
